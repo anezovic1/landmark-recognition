@@ -8,7 +8,7 @@ _Egypt Landmarks_ dataset is a subset of the much larger _Google Dataset V2_. Th
 
 The dataset can be found at: https://www.kaggle.com/datasets/aymanmostafa11/eg-landmarks
 
-## Model Description
+## Model description
 
 The selected model is ResNet50, suitable for landmark classification. ResNet50 is a deep neural network architecture belonging to the class of convolutional neural networks (CNN).
 
